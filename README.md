@@ -1,10 +1,7 @@
 <h1 align="left">Olá<!--<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">-->, sou Jennyfer Lamego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JennyLamego2022&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedora frontend, focada em superar desafios
-
-- 🔭 Trabalhando em alguns projetos, para aumentar meu portifólio
-
+- 🔥 Desenvolvedora frontend, focada em superar desafios.
 
 <br><br>
 
