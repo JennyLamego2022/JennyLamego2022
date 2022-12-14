@@ -39,6 +39,7 @@
 <!--<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JennyLamego2022&show_icons=true&theme=vision-friendly-dark" alt="JennyLamego2022's stats"/>-->
 <!--<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JennyLamego2022&show_icons=true&theme=vision-friendly-dark" atl="JennyLamego2022's stats"/>-->
  <a href="https://github.com/JennyLamego2022%22%3E"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JennyLamego2022&show_icons=true&theme=midnight-purple" alt=JennyLamego2022's stats"/>
   <img width="530em" src="https://streak-stats.demolab.com/?user=JennyLamego2022&theme=vision-friendly-dark"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyLamego2022&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   </div>
