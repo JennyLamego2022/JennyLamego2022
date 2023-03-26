@@ -7,6 +7,9 @@
 
 ## 🛠 &nbsp;Tecnologias
 
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -27,13 +30,13 @@
 <div align="center">
 
  <a href="https://github.com/JennyLamego2022%22%3E">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JennyLamego2022&show_icons=true&theme=midnight-purple" alt=JennyLamego2022's stats/>
-  <img width="530em" src="https://streak-stats.demolab.com/?user=JennyLamego2022&theme=midnight-purple"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyLamego2022&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img width="330em"; height= "200px" src="https://github-readme-stats.vercel.app/api?username=JennyLamego2022&show_icons=true&theme=midnight-purple" alt=JennyLamego2022's stats/>
+  <img width="330em"; height= "200px" src="https://streak-stats.demolab.com/?user=JennyLamego2022&theme=midnight-purple"/><br>
+  <img width="330em"; height= "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyLamego2022&layout=compact&langs_count=7&theme=midnight-purple"/>
   </div>
 
 
-<!--<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyLamego2022&layout=compact&theme=vision-friendly-dark" alt="JennyLamego2022's most languages"/>-->
+<!--<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyLamego2022&layout=compact&theme=vision-friendly-dark" alt="JennyLamego2022's most languages"/>-->
 </p>
 
 <br><br>
