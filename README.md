@@ -26,6 +26,7 @@
 ![Styled_Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styledComponents)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 ![Recharts](https://img.shields.io/badge/-Recharts-05122A?style=flat&logo=recharts)&nbsp;
+![Zingchart](https://img.shields.io/badge/-Zingchart-05122A?style=flat&logo=zingchart)&nbsp;
 <br/>
 
 ### Back-end
